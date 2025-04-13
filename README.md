@@ -29,6 +29,24 @@ Open to discussions and collaboration!</p>
   📤 Contact: <a href="mailto:srvmrtr@gmail.com">srvmrtr@gmail.com</a><br>
   ☕ Support me: <a href="https://buymeacoffee.com/astrayn">Buy Me a Coffee</a>
 </div>
+---
+<div align="center">
+  <h2>Certifications & Achievements</h2>
+</div>
+
+<div align="center">
+  <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/e70814ac583942ab8bde2eb54f28f4a5">
+    <img src="https://img.shields.io/badge/IBM-Python_101_for_Data_Science-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python 101 for Data Science">
+  </a>
+  <a href="https://www.linkedin.com/learning/certificates/2eda5be3e1f78fcdc719a50ac113ca07df10ef528119085965a29339b5b47605">
+    <img src="https://img.shields.io/badge/Microsoft-Career_Essentials_in_Data_Analysis-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Career Essentials in Data Analysis">
+  </a>
+  <a href="https://www.credly.com/badges/cfa0a380-0ad6-4039-8e35-e07fa1c8733e/linked_in_profile">
+    <img src="https://img.shields.io/badge/IBM-Applied_Data_Science_with_Python_Level_2-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Applied Data Science with Python - Level 2">
+  </a>
+</div>
+
+
 
 ---
 
@@ -69,7 +87,6 @@ Open to discussions and collaboration!</p>
 </div>
 
 ---
-
 <h2 align="center"> Currently Exploring</h2>
 
 <div align="center">
