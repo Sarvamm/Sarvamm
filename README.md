@@ -1,21 +1,60 @@
-# 💫 About Me:
-👋 Hi, I’m @Sarvamm<br>👀 I’m interested in Data Science<br>🌱 I’m currently pursuing Btech CSE with specialisation in Data Science<br>📫 Contact: srvmrtr@gmail.com<br>😄 Pronouns: he/him
+# 👋 About Me
 
+First year Data Science student specializing in AI and machine learning.
+Experienced in Python, SQL, and data visualization, with hands-on projects in predictive modeling and NLP. 
+Constantly learning and exploring the field of intelligent systems. 
+Open to discussions and collaboration!
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarvamm_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarvamm) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sarvamm&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarvamm&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvamm&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sarvamm&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
+📫 Contact: srvmrtr@gmail.com  
+📝 [Buy Me a Coffee](https://buymeacoffee.com/astrayn)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sarvamm&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvamm/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarvamm)
+
+## ⚙️ Technologies I Use
+
+### Programming Languages
+[![Python](https://img.shields.io/pypi/pyversions/pandas.svg)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+### AI/ML Frameworks
+[![TensorFlow](https://img.shields.io/pypi/v/tensorflow.svg?label=TensorFlow)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/pypi/v/torch.svg?label=PyTorch)](https://pytorch.org/)
+[![Scikit-Learn](https://img.shields.io/pypi/v/scikit-learn.svg?label=Scikit-Learn)](https://scikit-learn.org/)
+
+### Data Visualization
+[![Matplotlib](https://img.shields.io/pypi/v/matplotlib.svg?label=Matplotlib)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/pypi/v/seaborn.svg?label=Seaborn)](https://seaborn.pydata.org/)
+[![Plotly](https://img.shields.io/pypi/v/plotly.svg?label=Plotly)](https://plotly.com/)
+[![Streamlit](https://img.shields.io/pypi/v/streamlit.svg?label=Streamlit)](https://streamlit.io/)
+
+### Tools
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
+
+---
+
+## 📌 Featured Repositories
+
+- **[DATARS - Automated Data Analysis](https://github.com/Sarvamm/DATARS---Automated-Data-Analysis)**: A project focused on streamlining data analysis.  
+- **[Data Science Projects](https://github.com/Sarvamm/Data-Science-Projects)**: Various implementations of ML models and data analysis techniques.  
+- **[Python AI Apps](https://github.com/Sarvamm/Python-AI-Apps)**: Useful Python automation scripts.  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarvamm&show_icons=true&theme=dark)  
+
+---
+
+## 🚀 Currently Exploring
+- Advanced Machine Learning Algorithms  
+- Computer Vision & Natural Language Processing  
+- Open Source Contributions & AI Ethics  
+
+---
