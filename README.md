@@ -16,22 +16,15 @@ Open to discussions and collaboration!
 
 ## ⚙️ Technologies I Use
 
-### Programming Languages
 [![Python](https://img.shields.io/pypi/pyversions/pandas.svg)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### AI/ML Frameworks
 [![TensorFlow](https://img.shields.io/pypi/v/tensorflow.svg?label=TensorFlow)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/pypi/v/torch.svg?label=PyTorch)](https://pytorch.org/)
 [![Scikit-Learn](https://img.shields.io/pypi/v/scikit-learn.svg?label=Scikit-Learn)](https://scikit-learn.org/)
-
-### Data Visualization
 [![Matplotlib](https://img.shields.io/pypi/v/matplotlib.svg?label=Matplotlib)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/pypi/v/seaborn.svg?label=Seaborn)](https://seaborn.pydata.org/)
 [![Plotly](https://img.shields.io/pypi/v/plotly.svg?label=Plotly)](https://plotly.com/)
 [![Streamlit](https://img.shields.io/pypi/v/streamlit.svg?label=Streamlit)](https://streamlit.io/)
-
-### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](https://www.tableau.com/)
