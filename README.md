@@ -1,110 +1,81 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<div align="center"> <img height="150" src="https://media1.tenor.com/m/d54XfQ2BGwcAAAAd/raccoon-circle-dance-round.gif" /> </div> 
 
-###
+### 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sarvamm/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://buymeacoffee.com/astrayn">
-    <img src="https://img.shields.io/static/v1?message=Buy+Me+A+Coffee&logo=buymeacoffee&label=&color=FFDD00&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="buymeacoffee logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/sarvamm">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=100000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.buymeacoffee.com/astrayn" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee">
   </a>
 </div>
 
-###
+
+
+### 
+
+<h1 align="center">About Me</h1>
+
+<p align="center">First year Data Science student specializing in AI and machine learning.
+Experienced in Python, SQL, and data visualization, with hands-on projects in predictive modeling and NLP. 
+Constantly learning and exploring the field of intelligent systems. 
+Open to discussions and collaboration!</p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarvamm.sarvamm&"  />
+  📤 Contact: <a href="mailto:srvmrtr@gmail.com">srvmrtr@gmail.com</a><br>
+  ☕ Support me: <a href="https://buymeacoffee.com/astrayn">Buy Me a Coffee</a>
 </div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
-<p align="left">
-First year Data Science student specializing in AI and machine learning.<br><br>
-- 🔭 Working on predictive modeling and NLP projects<br>
-- 📚 Currently learning advanced machine learning algorithms<br>
-- ⚡ Passionate about AI ethics and open source contributions<br>
-- 📫 Contact: srvmrtr@gmail.com
-</p>
-
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sarvamm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-## 📌 Featured Repositories
-
-- **[DATARS - Automated Data Analysis](https://github.com/Sarvamm/DATARS---Automated-Data-Analysis)**: A project focused on streamlining data analysis.  
-- **[Data Science Projects](https://github.com/Sarvamm/Data-Science-Projects)**: Various implementations of ML models and data analysis techniques.  
-- **[Python AI Apps](https://github.com/Sarvamm/Python-AI-Apps)**: Useful Python automation scripts.  
 
 ---
 
-## 🚀 Currently Exploring
-- Advanced Machine Learning Algorithms  
-- Computer Vision & Natural Language Processing  
-- Open Source Contributions & AI Ethics  
+<h2 align="center">Technologies I Use</h2>
+
+<div align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/pypi/pyversions/pandas.svg" alt="Python"></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/pypi/v/tensorflow.svg?label=TensorFlow" alt="TensorFlow"></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/pypi/v/torch.svg?label=PyTorch" alt="PyTorch"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/pypi/v/scikit-learn.svg?label=Scikit-Learn" alt="Scikit-Learn"></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/pypi/v/matplotlib.svg?label=Matplotlib" alt="Matplotlib"></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/pypi/v/seaborn.svg?label=Seaborn" alt="Seaborn"></a>
+  <a href="https://plotly.com/"><img src="https://img.shields.io/pypi/v/plotly.svg?label=Plotly" alt="Plotly"></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/pypi/v/streamlit.svg?label=Streamlit" alt="Streamlit"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="PowerBI"></a>
+  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" alt="Tableau"></a>
+  <a href="https://www.microsoft.com/excel"><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
+</div>
 
 ---
 
-## ⚙️ Technologies I Use
+<h2 align="center"> Featured Repositories</h2>
 
-[![Python](https://img.shields.io/pypi/pyversions/pandas.svg)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![TensorFlow](https://img.shields.io/pypi/v/tensorflow.svg?label=TensorFlow)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/pypi/v/torch.svg?label=PyTorch)](https://pytorch.org/)
-[![Scikit-Learn](https://img.shields.io/pypi/v/scikit-learn.svg?label=Scikit-Learn)](https://scikit-learn.org/)
-[![Matplotlib](https://img.shields.io/pypi/v/matplotlib.svg?label=Matplotlib)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/pypi/v/seaborn.svg?label=Seaborn)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/pypi/v/plotly.svg?label=Plotly)](https://plotly.com/)
-[![Streamlit](https://img.shields.io/pypi/v/streamlit.svg?label=Streamlit)](https://streamlit.io/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](https://www.tableau.com/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
+<div align="center">
+  <p><strong><a href="https://github.com/Sarvamm/DATARS---Automated-Data-Analysis">DATARS - Automated Data Analysis</a></strong>: A project focused on streamlining data analysis.</p>
+  <p><strong><a href="https://github.com/Sarvamm/Data-Science-Projects">Data Science Projects</a></strong>: Various implementations of ML models and data analysis techniques.</p>
+  <p><strong><a href="https://github.com/Sarvamm/Python-AI-Apps">Python AI Apps</a></strong>: Useful Python automation scripts.</p>
+</div>
+
+---
+
+<h2 align="center"> GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarvamm&show_icons=true&theme=dark" alt="GitHub Stats">
+</div>
+
+---
+
+<h2 align="center"> Currently Exploring</h2>
+
+<div align="center">
+  <p>Machine Learning Algorithms</p>
+  <p>Deep learning and NLP</p>
+  <p>Power BI</p>
+</div>
+
+---
