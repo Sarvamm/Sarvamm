@@ -29,11 +29,12 @@ Open to discussions and collaboration!</p>
   📤 Contact: <a href="mailto:srvmrtr@gmail.com">srvmrtr@gmail.com</a><br>
   ☕ Support me: <a href="https://buymeacoffee.com/astrayn">Buy Me a Coffee</a>
 </div>
+
 ---
+
 <div align="center">
   <h2>Certifications & Achievements</h2>
 </div>
-
 <div align="center">
   <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/e70814ac583942ab8bde2eb54f28f4a5">
     <img src="https://img.shields.io/badge/IBM-Python_101_for_Data_Science-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python 101 for Data Science">
