@@ -81,6 +81,13 @@ Open to discussions and collaboration!</p>
 
 ---
 
+<h2 align="center"> Latest Medium Posts</h2>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@srvmrtr/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@srvmrtr/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@srvmrtr/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@srvmrtr/1" alt="Recent Article 2"> 
+
+
+---
 <h2 align="center"> GitHub Stats</h2>
 
 <div align="center">
