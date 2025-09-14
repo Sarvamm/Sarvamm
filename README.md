@@ -27,7 +27,7 @@ Open to discussions and collaboration!</p>
 
 <div align="center">
   📤 Contact: <a href="mailto:srvmrtr@gmail.com">srvmrtr@gmail.com</a><br>
-  ☕ Support me: <a href="https://buymeacoffee.com/astrayn">Buy Me a Coffee</a>
+  ☕ Support me: <a href="https://buymeacoffee.com/sarvamm">Buy Me a Coffee</a>
 </div>
 
 ---
