@@ -1,21 +1,3 @@
-
-
-### 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sarvamm/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/sarvamm">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.buymeacoffee.com/astrayn" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee">
-  </a>
-</div>
-
-
-
 ### 
 
 <h1 align="center">About Me</h1>
