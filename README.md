@@ -1,4 +1,4 @@
-<div align="center"> <img height="150" src="https://media1.tenor.com/m/d54XfQ2BGwcAAAAd/raccoon-circle-dance-round.gif" /> </div> 
+
 
 ### 
 
@@ -20,10 +20,8 @@
 
 <h1 align="center">About Me</h1>
 
-<p align="center">First year Data Science student specializing in AI and machine learning.
-Experienced in Python, SQL, and data visualization, with hands-on projects in predictive modeling and NLP. 
-Constantly learning and exploring the field of intelligent systems. 
-Open to discussions and collaboration!</p>
+<p align="center"> Data Science student specializing in AI and machine learning.
+Experienced in Python, SQL, Tableau. Buit end to end AI apps for automation</p>
 
 <div align="center">
   📤 Contact: <a href="mailto:srvmrtr@gmail.com">srvmrtr@gmail.com</a><br>
@@ -33,7 +31,7 @@ Open to discussions and collaboration!</p>
 ---
 
 <div align="center">
-  <h2>Certifications & Achievements</h2>
+  <h2>Certifications</h2>
 </div>
 <div align="center">
   <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/e70814ac583942ab8bde2eb54f28f4a5">
@@ -74,9 +72,8 @@ Open to discussions and collaboration!</p>
 <h2 align="center"> Featured Repositories</h2>
 
 <div align="center">
-  <p><strong><a href="https://github.com/Sarvamm/DATARS---Automated-Data-Analysis">DATARS - Automated Data Analysis</a></strong>: A project focused on streamlining data analysis.</p>
-  <p><strong><a href="https://github.com/Sarvamm/Data-Science-Projects">Data Science Projects</a></strong>: Various implementations of ML models and data analysis techniques.</p>
-  <p><strong><a href="https://github.com/Sarvamm/Python-AI-Apps">Python AI Apps</a></strong>: Useful Python automation scripts.</p>
+  <p><strong><a href="https://github.com/Sarvamm/Zeno">Zeno</a></strong>: A project focused on automating data analysis.</p>
+  <p><strong><a href="https://github.com/Sarvamm/Brainbrew">Data Science Projects</a></strong>:Ai powered study tool</p>
 </div>
 
 ---
@@ -92,15 +89,6 @@ Open to discussions and collaboration!</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarvamm&show_icons=true&theme=dark" alt="GitHub Stats">
-</div>
-
----
-<h2 align="center"> Currently Exploring</h2>
-
-<div align="center">
-  <p>Machine Learning Algorithms</p>
-  <p>Deep learning and NLP</p>
-  <p>Power BI</p>
 </div>
 
 ---
