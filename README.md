@@ -11,7 +11,7 @@
 
 <div align="center">
 <a href="mailto:srvmrtr@gmail.com">E-Mail</a>  |  <a href="https://linkedin.com/in/sarvamm">Linkedin</a>  |  <a href="https://medium.com/@sarvamm">Medium</a> | 
-  <a href="https://share.streamlit.io/user/sarvamm">Streamlit Apps</a>
+  <a href="https://share.streamlit.io/user/sarvamm">Streamlit Apps</a> | <a href="http://sarvamm.github.io/">View Portfolio</a>
 </div>
 
 <div align="center">
