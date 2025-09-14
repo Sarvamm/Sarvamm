@@ -72,8 +72,8 @@ Experienced in Python, SQL, Tableau. Buit end to end AI apps for automation</p>
 <h2 align="center"> Featured Repositories</h2>
 
 <div align="center">
-  <p><strong><a href="https://github.com/Sarvamm/Zeno">Zeno</a></strong>: A project focused on automating data analysis.</p>
-  <p><strong><a href="https://github.com/Sarvamm/Brainbrew">Data Science Projects</a></strong>:Ai powered study tool</p>
+  <p><strong><a href="https://github.com/Sarvamm/Zeno">Zeno - Automated Data Analysis</a></strong>: A project focused on automating data analysis.</p>
+  <p><strong><a href="https://github.com/Sarvamm/Brainbrew">Brainbrew</a></strong>:Ai powered study tool</p>
 </div>
 
 ---
