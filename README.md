@@ -1,76 +1,60 @@
 ### 
 
+
 <h1 align="center">About Me</h1>
 
-<p align="center"> Data Science student specializing in AI and machine learning.
-Experienced in Python, SQL, Tableau. Buit end to end AI apps for automation</p>
+<p align="center"> 
+  Data Science student specializing in AI and Machine Learning.  
+  Experienced in Python, SQL, Tableau.  
+  Built end-to-end AI apps for automation and data analysis.  
+</p>
 
 <div align="center">
-  📤 Contact: <a href="mailto:srvmrtr@gmail.com">srvmrtr@gmail.com</a><br>
+<a href="mailto:srvmrtr@gmail.com">E-Mail</a>  |  <a href="https://linkedin.com/in/sarvamm">Linkedin</a>  |  <a href="https://medium.com/@sarvamm">Medium</a> | 
+  <a href="https://share.streamlit.io/user/sarvamm">Streamlit Apps</a>
+</div>
+
+<div align="center">
   ☕ Support me: <a href="https://buymeacoffee.com/sarvamm">Buy Me a Coffee</a>
 </div>
 
 ---
 
-<div align="center">
-  <h2>Certifications</h2>
-</div>
-<div align="center">
-  <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/e70814ac583942ab8bde2eb54f28f4a5">
-    <img src="https://img.shields.io/badge/IBM-Python_101_for_Data_Science-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python 101 for Data Science">
-  </a>
-  <a href="https://www.linkedin.com/learning/certificates/2eda5be3e1f78fcdc719a50ac113ca07df10ef528119085965a29339b5b47605">
-    <img src="https://img.shields.io/badge/Microsoft-Career_Essentials_in_Data_Analysis-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Career Essentials in Data Analysis">
-  </a>
-  <a href="https://www.credly.com/badges/cfa0a380-0ad6-4039-8e35-e07fa1c8733e/linked_in_profile">
-    <img src="https://img.shields.io/badge/IBM-Applied_Data_Science_with_Python_Level_2-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Applied Data Science with Python - Level 2">
-  </a>
-</div>
+## Tech Skills
 
-
+- **Languages:** Python, SQL, C++  
+- **Libraries/Frameworks:** Pandas, Numpy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, LangChain, Streamlit  
+- **Tools:** Git, Tableau, Power BI, IBM Watson, Google Cloud Platform  
+- **Core Areas:** Data Analysis, Machine Learning, Deep Learning, Natural Language Processing, Large Language Models  
 
 ---
 
-<h2 align="center">Technologies I Use</h2>
+## Experience
 
-<div align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/pypi/pyversions/pandas.svg" alt="Python"></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"></a>
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/pypi/v/tensorflow.svg?label=TensorFlow" alt="TensorFlow"></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/pypi/v/torch.svg?label=PyTorch" alt="PyTorch"></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/pypi/v/scikit-learn.svg?label=Scikit-Learn" alt="Scikit-Learn"></a>
-  <a href="https://matplotlib.org/"><img src="https://img.shields.io/pypi/v/matplotlib.svg?label=Matplotlib" alt="Matplotlib"></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/pypi/v/seaborn.svg?label=Seaborn" alt="Seaborn"></a>
-  <a href="https://plotly.com/"><img src="https://img.shields.io/pypi/v/plotly.svg?label=Plotly" alt="Plotly"></a>
-  <a href="https://streamlit.io/"><img src="https://img.shields.io/pypi/v/streamlit.svg?label=Streamlit" alt="Streamlit"></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="PowerBI"></a>
-  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" alt="Tableau"></a>
-  <a href="https://www.microsoft.com/excel"><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
-</div>
+- **Prompt Engineer Intern — CSRBOX | IBM Winter Internship** (Dec 2024 – Jan 2025)  
+  - Designed an end-to-end product launch simulation using AI tools and prompt engineering.  
+  - Integrated AI into product conceptualization, market analysis, strategy, and financial planning.  
+  - [View Certificate](https://drive.google.com/file/d/1FYiq3YnfKcl7ZUxn8V6DOAEIjQ48sArU/view?usp=sharing)  
 
 ---
 
-<h2 align="center"> Featured Repositories</h2>
+## Featured Projects  
 
-<div align="center">
-  <p><strong><a href="https://github.com/Sarvamm/Zeno">Zeno - Automated Data Analysis</a></strong>: A project focused on automating data analysis.</p>
-  <p><strong><a href="https://github.com/Sarvamm/Brainbrew">Brainbrew</a></strong>:Ai powered study tool</p>
-</div>
+- **[Zeno – Automated Data Analysis](https://github.com/sarvamm/Zeno)**  
+  *LLM-powered tool for dataset summarization, anomaly detection, and visualization.*  
 
----
+- **[Brainbrew – Learn Efficiently](https://github.com/sarvamm/brainbrew)**  
+  *AI tutor that generates notes, quizzes, and adaptive learning material.*  
 
-<h2 align="center"> Latest Medium Posts</h2>
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@srvmrtr/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@srvmrtr/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@srvmrtr/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@srvmrtr/1" alt="Recent Article 2"> 
-
+- **[Data Science Projects](https://github.com/sarvamm/ds-ml-projects)**  
+  *Includes Titanic Survival Prediction, Student Performance EDA, and more.*  
 
 ---
-<h2 align="center"> GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarvamm&show_icons=true&theme=dark" alt="GitHub Stats">
-</div>
+##  Certifications  
+
+- Career Essentials in Data Analysis — Microsoft & LinkedIn [🔗](https://drive.google.com/file/d/16LfTNAb-glTVZU5WY7_v3_o05grDZvTF/view?usp=sharing)  
+- Applied Data Science with Python Level 2 [🔗](https://www.credly.com/badges/cfa0a380-0ad6-4039-8e35-e07fa1c8733e)  
+- Data Science 101 — IBM [🔗](https://cognitiveclass.ai/courses/data-science-101)  
 
 ---
