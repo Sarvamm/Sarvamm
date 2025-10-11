@@ -22,9 +22,9 @@
 
 ## Tech Skills
 
-- **Languages:** Python, SQL, C++  
-- **Libraries/Frameworks:** Pandas, Numpy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, LangChain, Streamlit  
-- **Tools:** Git, Tableau, Power BI, IBM Watson, Google Cloud Platform  
+- **Languages:** Python, SQL  
+- **Libraries/Frameworks:** Pandas, Numpy, Scikit-Learn, Plotly, LangChain, Streamlit  
+- **Tools:** Git, Tableau, Power B  
 - **Core Areas:** Data Analysis, Machine Learning, Deep Learning, Natural Language Processing, Large Language Models  
 
 ---
