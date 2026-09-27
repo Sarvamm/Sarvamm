@@ -37,7 +37,7 @@ Dec. 2024 – Jan. 2025 · Remote
 ---
 
 ## Projects
-**[Zeno - Automated Data Analysis](https://github.com/sarvamm/Zeno-2)**  
+**[Zeno 2 - Automated Data Analysis](https://github.com/sarvamm/Zeno-2)**  
 *Python, Streamlit, LangChain, Groq API, Jupyter Client, Plotly*  
 - Architected a stateful execution engine by embedding an isolated background Jupyter Kernel (jupyter_client), enabling safe runtime execution of AI-generated code while maintaining persistent variable state across chat turns.  
 - Engineered a context-aware LLM agent using LangChain and Groq API (OSS 120B model), dynamically passing live kernel memory manifests and schema metadata to ensure precise code generation and minimal hallucination.  
