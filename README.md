@@ -37,17 +37,18 @@ Dec. 2024 – Jan. 2025 · Remote
 ---
 
 ## Projects
-**[Zeno - Automated Data Analysis](https://github.com/sarvamm/Zeno)**  
-*Python, LLMs, Langchain, Streamlit*  
-- Automated dataset summarization with AI, including outlier detection, correlation analysis, and issue identification (missing values, skewness, duplicates).  
-- Enabled natural language queries through an **LLM-powered chatbot** that converts user commands into Python code and executes analysis instantly.  
-- Generated intelligent visualizations automatically, with recommended plots such as histograms, heatmaps, and pairwise relationship charts.  
+**[Zeno - Automated Data Analysis](https://github.com/sarvamm/Zeno-2)**  
+*Python, Streamlit, LangChain, Groq API, Jupyter Client, Plotly*  
+- Architected a stateful execution engine by embedding an isolated background Jupyter Kernel (jupyter_client), enabling safe runtime execution of AI-generated code while maintaining persistent variable state across chat turns.  
+- Engineered a context-aware LLM agent using LangChain and Groq API (OSS 120B model), dynamically passing live kernel memory manifests and schema metadata to ensure precise code generation and minimal hallucination.  
+- Integrated automated data profiling using a custom library (sinica) for immediate dataset summaries and anomaly alerts, alongside a dual-mode conversational UI supporting natural language queries and direct Python slash commands (/).
+- Built interactive visualization and export pipelines, streaming real-time execution logs, rendering interactive Plotly charts, and enabling full session compilation into native .ipynb Jupyter Notebooks. 
 
-**[Brainbrew - Learn Efficiently](https://github.com/sarvamm/brainbrew)**  
-*Python, LLMs, Langchain, Streamlit*  
-- Developed an AI-powered learning assistant that generates notes, quizzes, and Q&A pairs from user-provided topics using LLMs.  
-- Implemented personalization features including adaptive difficulty, spaced repetition, and progress tracking with analytics.  
-- Designed a conversational tutor mode with hints, feedback, and Socratic questioning to enhance learning outcomes.  
+**[Aurelius - Stoic AI Companion](https://github.com/yourusername/aurelius)**  
+*Python, LangChain, ChromaDB, Streamlit, Groq*  
+- Developed an AI counselor channeling Marcus Aurelius, featuring dual-source retrieval across primary JSON aphorisms and historical PDF texts.  
+- Implemented a Parent-Child (Small-to-Big) chunking strategy using `BAAI/bge-m3` embeddings to perform vector searches on 500-character child passages while passing 2,500-character parent context to the LLM.  
+- Designed a production-ready Streamlit interface with low-latency streaming inference, custom Cormorant Garamond typography, and a context inspector for transparent source attribution.
 
 ---
 
