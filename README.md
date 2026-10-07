@@ -38,12 +38,16 @@ Dec. 2024 – Jan. 2025 · Remote
 
 ## Projects
 **[Telco Churn - Machine Learning Pipeline](https://github.com/sarvamm/Capstone-Project---IBM-telco-customer-churn)**
-
 *Python, Scikit-Learn, XGBoost, Pandas, Streamlit*
-
 - Engineered domain-specific feature metrics (`family_score`, `Internet_service_score`) and eliminated highly collinear variables to optimize dataset dimensionality and predictive signal.
 - Benchmarked 5 machine learning models (XGBoost, Random Forest, SVM, Logistic Regression, Decision Trees) and fine-tuned hyperparameters via `GridSearchCV` to prioritize churn recall (**80.2%**).
 - Built and deployed an interactive Streamlit web application delivering real-time churn predictions, confidence metrics, and probability breakdowns for business decision support.
+
+**[Salifort Motors - HR Employee Turnover Analytics](https://github.com/Sarvamm/Portfolio-projects)**
+*Python, Scikit-Learn, Pandas, SciPy, Tableau*
+- Conducted exploratory data analysis and hypothesis testing ($\chi^2$ test) on 15,000+ employee records, uncovering severe workload burnout (>200 monthly hours, 6+ projects) and low satisfaction as key attrition drivers.
+- Benchmarked multiple classifiers and tuned a cost-sensitive `RandomForestClassifier` using cross-validation and balanced class weights, achieving **98% accuracy**, **0.93 F1-score**, and **90% recall** on unseen holdout test data.
+- Designed an interactive **Tableau HR Executive Dashboard** to visualize department-level turnover rates, workload distributions, and retention risk scores for executive decision-making.
 
 **[Zeno 2 - Automated Data Analysis](https://github.com/sarvamm/Zeno-2)**  
 *Python, Streamlit, LangChain, Groq, Jupyter Client, Plotly*    
