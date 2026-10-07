@@ -45,7 +45,7 @@ Dec. 2024 – Jan. 2025 · Remote
 
 **[Salifort Motors - HR Employee Turnover Analytics](https://github.com/Sarvamm/Portfolio-projects)**
 *Python, Scikit-Learn, Pandas, SciPy, Tableau*
-- Conducted exploratory data analysis and hypothesis testing ($\chi^2$ test) on 15,000+ employee records, uncovering severe workload burnout (>200 monthly hours, 6+ projects) and low satisfaction as key attrition drivers.
+- Conducted exploratory data analysis and hypothesis testing on 15,000+ employee records, uncovering severe workload burnout (>200 monthly hours, 6+ projects) and low satisfaction as key attrition drivers.
 - Benchmarked multiple classifiers and tuned a cost-sensitive `RandomForestClassifier` using cross-validation and balanced class weights, achieving **98% accuracy**, **0.93 F1-score**, and **90% recall** on unseen holdout test data.
 - Designed an interactive **Tableau HR Executive Dashboard** to visualize department-level turnover rates, workload distributions, and retention risk scores for executive decision-making.
 
