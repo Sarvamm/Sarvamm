@@ -37,6 +37,14 @@ Dec. 2024 – Jan. 2025 · Remote
 ---
 
 ## Projects
+**[Telco Churn - Machine Learning Pipeline](https://github.com/sarvamm/Capstone-Project---IBM-telco-customer-churn)**
+
+*Python, Scikit-Learn, XGBoost, Pandas, Streamlit*
+
+- Engineered domain-specific feature metrics (`family_score`, `Internet_service_score`) and eliminated highly collinear variables to optimize dataset dimensionality and predictive signal.
+- Benchmarked 5 machine learning models (XGBoost, Random Forest, SVM, Logistic Regression, Decision Trees) and fine-tuned hyperparameters via `GridSearchCV` to prioritize churn recall (**80.2%**).
+- Built and deployed an interactive Streamlit web application delivering real-time churn predictions, confidence metrics, and probability breakdowns for business decision support.
+
 **[Zeno 2 - Automated Data Analysis](https://github.com/sarvamm/Zeno-2)**  
 *Python, Streamlit, LangChain, Groq, Jupyter Client, Plotly*    
 - Built a conversational data analysis platform using open-source LLMs via LangChain and Streamlit to execute natural language queries and code.
