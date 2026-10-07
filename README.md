@@ -38,24 +38,30 @@ Dec. 2024 – Jan. 2025 · Remote
 
 ## Projects
 **[Zeno 2 - Automated Data Analysis](https://github.com/sarvamm/Zeno-2)**  
-*Python, Streamlit, LangChain, Groq API, Jupyter Client, Plotly*  
-- Architected a stateful execution engine by embedding an isolated background Jupyter Kernel (jupyter_client), enabling safe runtime execution of AI-generated code while maintaining persistent variable state across chat turns.  
-- Engineered a context-aware LLM agent using LangChain and Groq API (OSS 120B model), dynamically passing live kernel memory manifests and schema metadata to ensure precise code generation and minimal hallucination.  
-- Integrated automated data profiling using a custom library (sinica) for immediate dataset summaries and anomaly alerts, alongside a dual-mode conversational UI supporting natural language queries and direct Python slash commands (/).
-- Built interactive visualization and export pipelines, streaming real-time execution logs, rendering interactive Plotly charts, and enabling full session compilation into native .ipynb Jupyter Notebooks. 
+*Python, Streamlit, LangChain, Groq, Jupyter Client, Plotly*    
+- Built a conversational data analysis platform using open-source LLMs via LangChain and Streamlit to execute natural language queries and code.
+- Integrated an isolated, stateful Jupyter Kernel background runtime to maintain full in-memory execution context (DataFrames, models, plots) across conversation turns.
+- Developed a custom Python library (sinica) to generate instant dataset summaries, schema detection, and data quality alerts upon upload.
+- Designed dynamic analytics workflows including context-aware code generation, interactive data visualizations, smart follow-up suggestions, and full notebook exports.
 
-**[Aurelius - Stoic AI Companion](https://github.com/yourusername/aurelius)**  
+**[Aurelius - Stoic RAG chat](https://github.com/sarvamm/aurelius)**  
 *Python, LangChain, ChromaDB, Streamlit, Groq*  
 - Developed an AI counselor channeling Marcus Aurelius, featuring dual-source retrieval across primary JSON aphorisms and historical PDF texts.  
 - Implemented a Parent-Child (Small-to-Big) chunking strategy using `BAAI/bge-m3` embeddings to perform vector searches on 500-character child passages while passing 2,500-character parent context to the LLM.  
-- Designed a production-ready Streamlit interface with low-latency streaming inference, custom Cormorant Garamond typography, and a context inspector for transparent source attribution.
+- Designed a Streamlit interface with low-latency streaming inference, and a context inspector for transparent source attribution.
 
+
+**[Sinica - One line data profiling](https://github.com/sarvamm/sinica)**  
+*Python, Pandas, Numpy, Seaborn*  
+- Built a python library for automated exploratory data analysis with native Jupyter rendering. One-line statistical profiling and summary generation for tabular datasets.
+- Implemented automated univariate and multivariate analysis pipelines to instantly extract descriptive statistics, distribution shapes, and correlation metrics.
+- Engineered a diagnostic alerting and visualization engine to automatically flag and map data quality issues like high collinearity, skewness, and missing-value patterns.
 ---
 
 ## Certifications
 - Google Advanced Data Analytics — [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/88TYQ2085PPG)
-- Machine Learning specialization -- Stanford University [View Certificate](https://www.coursera.org/account/accomplishments/specialization/SQKB6MABNFI0)
-- Machine Learning for Data Science projects -- IBM [View Certificate](https://www.credly.com/badges/b43a2ef1-073f-475e-a4b9-4636f270ec0b/linked_in_profile)
+- Machine Learning specialization — Stanford University [View Certificate](https://www.coursera.org/account/accomplishments/specialization/SQKB6MABNFI0)
+- Machine Learning for Data Science projects — IBM [View Certificate](https://www.credly.com/badges/b43a2ef1-073f-475e-a4b9-4636f270ec0b/linked_in_profile)
 - Applied Data Science with Python Level 2 — [View Certificate](https://www.credly.com/badges/cfa0a380-0ad6-4039-8e35-e07fa1c8733e)  
 - Data Science 101 by IBM — [View Certificate](https://cognitiveclass.ai/courses/data-science-101)
 
