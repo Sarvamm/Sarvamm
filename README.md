@@ -17,11 +17,11 @@
 ---
 
 ## Technical Skills
-- **Languages:** Python, C++
-- **Libraries:** Pandas, Numpy, Scikit-Learn, PyTorch, Langchain, Streamlit
-- **Databases & Querying:** SQL (PostgreSQL)
-- **Data Visualization:** Tableau, Power BI, Plotly, Seaborn, Matplotlib
-- **Core Concepts:** Data Structures & Algorithms, Databases, Exploratory Data Analysis, Machine Learning Pipelines
+- **Languages:** Python
+- **Libraries:** Pandas, Polars, Numpy, Scikit-Learn, Langchain, Streamlit, Marimo
+- **Databases & Querying:** SQL (MySQL)
+- **Data Visualization:**  Power BI, Plotly, Seaborn, Matplotlib
+- **Core Concepts:** Data Structures & Algorithms, Relational Databases, Statistics, Exploratory Data Analysis, Machine Learning Pipelines
   
 
 ---
